@@ -9,13 +9,13 @@ Mi sono avvicinato al mondo dello sviluppo web durante gli anni delle superiori,
 Mi piace combinare competenze tecniche e creatività per creare progetti innovativi e di impatto.
 
 ## 🚀 Progetti
-### LomBnB (Laravel e Vue.js)
+- ### LomBnB (Laravel e Vue.js)
 LomBnB è una piattaforma per la gestione degli affitti di appartamenti in Lombardia.
 
 Funzionalità: Registrazione utenti, creazione annunci personalizzati, mappa interattiva per visualizzare gli appartamenti.
 Tecnologie usate: Laravel, Vue.js, MySQL, Docker.
 
-### BoolFlix (Vue.js)
+- ### BoolFlix (Vue.js)
 BoolFlix è una replica dell’interfaccia di Netflix, focalizzata sull’organizzazione dei contenuti.
 
 Funzionalità: Ricerca dinamica di film e serie TV, filtraggio per categoria, supporto multilingua.
@@ -23,22 +23,23 @@ Tecnologie usate: Vue.js, API esterne.
 (Trovi i progetti nel mio portfolio su GitHub.)
 
 ## 💻 Competenze Tecniche
-Tecnologie principali
-Frontend: HTML, CSS, JavaScript, Vue.js, Tailwind, Bootstrap.
-Backend: Laravel, PHP, MySQL.
-In Progress: React, Python, Java.
-Strumenti
+### Tecnologie principali
+- Frontend: HTML, CSS, JavaScript, Vue.js, Tailwind, Bootstrap.
+- Backend: Laravel, PHP, MySQL.
+- In Progress: React, Python, Java.
+
+### Strumenti
 Git, GitHub, Postman, Vite, Axios.
 
 ## 📚 Educazione
-### Master in Web Development – Boolean
+- ### Master in Web Development – Boolean
 Certificazione Full Stack Web Developer (2023 - 2024)
 Corso intensivo di 700 ore con focus su frontend e backend, incluse tecnologie come Vue.js, Laravel e MySQL.
 
-### Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata
+- ### Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata
 Approfondimento di matematica, fisica e linguaggi di programmazione per lo sviluppo software.
 
-### Diploma Liceo Scientifico
+- ### Diploma Liceo Scientifico
 Formazione multidisciplinare con competenze in logica e problem-solving.
 
 ## 🛠 Esperienze Lavorative
@@ -49,8 +50,8 @@ Coinvolto nel progetto "Promozione dell'ambiente" per sensibilizzare e informare
 Sviluppo di competenze trasversali come organizzazione, comunicazione e problem-solving.
 
 ## 🌐 Lingue
-Italiano: Madrelingua.
-Inglese: Livello B1.
+- Italiano: Madrelingua.
+- Inglese: Livello B1.
 
 ## 🎮 Interessi
 Oltre allo sviluppo software, amo i videogiochi competitivi come Valorant. Attraverso queste esperienze, ho sviluppato competenze in team leadership e gestione della comunicazione.
