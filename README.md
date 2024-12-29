@@ -1,5 +1,5 @@
 # 👨‍💻 Salvatore Impellizzeri
-## Jr Full Stack Web Developer
+### Jr Full Stack Web Developer
 
 Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassionato di sviluppo software e sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente.
 
@@ -57,7 +57,7 @@ Oltre allo sviluppo software, amo i videogiochi competitivi come Valorant. Attra
 
 Sono una persona curiosa, creativa e sempre pronta ad accettare nuove sfide.
 
-📞 Contatti
+## 📞 Contatti
 - 📧 Email: salvatoreimpellizzeri2001@gmail.com
 - 📱 Telefono: +39 3457617037
 - 🌍 LinkedIn: https://www.linkedin.com/in/salvatore-impellizzeri-2a6a83338/
