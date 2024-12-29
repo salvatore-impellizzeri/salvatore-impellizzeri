@@ -29,21 +29,27 @@ Tecnologie usate: Vue.js, API esterne.
 - In Progress: React, Python, Java.
 
 ### Strumenti
-Git, GitHub, Postman, Vite, Axios.
+- Git
+- GitHub
+- Postman
+- Vite
+- Axios
+- npm
+- composer
 
 ## 📚 Educazione
-- ### Master in Web Development – Boolean
+### Master in Web Development – Boolean
 Certificazione Full Stack Web Developer (2023 - 2024)
 Corso intensivo di 700 ore con focus su frontend e backend, incluse tecnologie come Vue.js, Laravel e MySQL.
 
-- ### Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata
+### Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata
 Approfondimento di matematica, fisica e linguaggi di programmazione per lo sviluppo software.
 
-- ### Diploma Liceo Scientifico
+### Diploma Liceo Scientifico
 Formazione multidisciplinare con competenze in logica e problem-solving.
 
 ## 🛠 Esperienze Lavorative
-###Servizio Civile Universale (2023-2024)
+### Servizio Civile Universale (2023-2024)
 Centro Associazioni Futura
 
 Coinvolto nel progetto "Promozione dell'ambiente" per sensibilizzare e informare i cittadini sul rispetto ambientale.
