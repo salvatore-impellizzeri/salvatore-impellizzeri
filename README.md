@@ -1,28 +1,28 @@
-*👨‍💻 Salvatore Impellizzeri*
+#👨‍💻 Salvatore Impellizzeri#
 Jr Full Stack Web Developer
 
 Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassionato di sviluppo software e sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente.
 
-**📝 Profilo**
+##📝 Profilo##
 Mi sono avvicinato al mondo dello sviluppo web durante gli anni delle superiori, iniziando con HTML, CSS e C++. La mia passione è cresciuta quando ho realizzato progetti personali, dedicandomi a migliorare costantemente le mie competenze tecniche.
 
 Mi piace combinare competenze tecniche e creatività per creare progetti innovativi e di impatto.
 
-**🚀 Progetti**
-***LomBnB (Laravel e Vue.js)***
+##🚀 Progetti##
+###LomBnB (Laravel e Vue.js)###
 LomBnB è una piattaforma per la gestione degli affitti di appartamenti in Lombardia.
 
 Funzionalità: Registrazione utenti, creazione annunci personalizzati, mappa interattiva per visualizzare gli appartamenti.
 Tecnologie usate: Laravel, Vue.js, MySQL, Docker.
 
-***BoolFlix (Vue.js)***
+###BoolFlix (Vue.js)###
 BoolFlix è una replica dell’interfaccia di Netflix, focalizzata sull’organizzazione dei contenuti.
 
 Funzionalità: Ricerca dinamica di film e serie TV, filtraggio per categoria, supporto multilingua.
 Tecnologie usate: Vue.js, API esterne.
 (Trovi i progetti nel mio portfolio su GitHub.)
 
-**💻 Competenze Tecniche**
+##💻 Competenze Tecniche##
 Tecnologie principali
 Frontend: HTML, CSS, JavaScript, Vue.js, Tailwind, Bootstrap.
 Backend: Laravel, PHP, MySQL.
@@ -30,29 +30,29 @@ In Progress: React, Python, Java.
 Strumenti
 Git, GitHub, Postman, Vite, Axios.
 
-**📚 Educazione**
-**Master in Web Development – Boolean***
+##📚 Educazione##
+###Master in Web Development – Boolean###
 Certificazione Full Stack Web Developer (2023 - 2024)
 Corso intensivo di 700 ore con focus su frontend e backend, incluse tecnologie come Vue.js, Laravel e MySQL.
 
-***Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata***
+###Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata###
 Approfondimento di matematica, fisica e linguaggi di programmazione per lo sviluppo software.
 
-***Diploma Liceo Scientifico***
+###Diploma Liceo Scientifico###
 Formazione multidisciplinare con competenze in logica e problem-solving.
 
-**🛠 Esperienze Lavorative**
-***Servizio Civile Universale (2023-2024)***
+##🛠 Esperienze Lavorative##
+###Servizio Civile Universale (2023-2024)###
 Centro Associazioni Futura
 
 Coinvolto nel progetto "Promozione dell'ambiente" per sensibilizzare e informare i cittadini sul rispetto ambientale.
 Sviluppo di competenze trasversali come organizzazione, comunicazione e problem-solving.
 
-**🌐 Lingue**
+##🌐 Lingue##
 Italiano: Madrelingua.
 Inglese: Livello B1.
 
-**🎮 Interessi**
+##🎮 Interessi##
 Oltre allo sviluppo software, amo i videogiochi competitivi come Valorant. Attraverso queste esperienze, ho sviluppato competenze in team leadership e gestione della comunicazione.
 
 Sono una persona curiosa, creativa e sempre pronta ad accettare nuove sfide.
