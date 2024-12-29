@@ -1,5 +1,5 @@
 # 👨‍💻 Salvatore Impellizzeri
-Jr Full Stack Web Developer
+## Jr Full Stack Web Developer
 
 Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassionato di sviluppo software e sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente.
 
@@ -9,7 +9,7 @@ Mi sono avvicinato al mondo dello sviluppo web durante gli anni delle superiori,
 Mi piace combinare competenze tecniche e creatività per creare progetti innovativi e di impatto.
 
 ## 🚀 Progetti
-###LomBnB (Laravel e Vue.js)
+### LomBnB (Laravel e Vue.js)
 LomBnB è una piattaforma per la gestione degli affitti di appartamenti in Lombardia.
 
 Funzionalità: Registrazione utenti, creazione annunci personalizzati, mappa interattiva per visualizzare gli appartamenti.
@@ -58,10 +58,10 @@ Oltre allo sviluppo software, amo i videogiochi competitivi come Valorant. Attra
 Sono una persona curiosa, creativa e sempre pronta ad accettare nuove sfide.
 
 📞 Contatti
-📧 Email: salvatoreimpellizzeri2001@gmail.com
-📱 Telefono: +39 3457617037
-🌍 LinkedIn: https://www.linkedin.com/in/salvatore-impellizzeri-2a6a83338/
-🔗 GitHub: https://github.com/salvatore-impellizzeri
+- 📧 Email: salvatoreimpellizzeri2001@gmail.com
+- 📱 Telefono: +39 3457617037
+- 🌍 LinkedIn: https://www.linkedin.com/in/salvatore-impellizzeri-2a6a83338/
+- 🔗 GitHub: https://github.com/salvatore-impellizzeri
 
 Grazie per aver visitato il mio profilo! 🚀
 Se hai un progetto interessante o vuoi collaborare, non esitare a contattarmi.
