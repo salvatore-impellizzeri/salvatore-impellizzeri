@@ -12,7 +12,7 @@ Mi piace combinare competenze tecniche e creatività per creare progetti innovat
 ### Tecnologie principali
 - Frontend: HTML, CSS, JavaScript, React.js, Vue.js, Tailwind, Bootstrap.
 - Backend: Laravel, PHP, MySQL.
-- In Progress: React, Python, Java.
+- In Progress: Python, Java, Web Design
 
 ### Strumenti
 - Git
