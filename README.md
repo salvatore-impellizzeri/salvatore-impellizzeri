@@ -10,7 +10,7 @@ Mi piace combinare competenze tecniche e creatività per creare progetti innovat
 
 ## 💻 Competenze Tecniche
 ### Tecnologie principali
-- Frontend: HTML, CSS, JavaScript, React.js, Redux, Vue.js, Tailwind, Bootstrap.
+- Frontend: HTML, CSS, JavaScript, React.js, Vue.js, Tailwind, Bootstrap.
 - Backend: Laravel, PHP, MySQL.
 - In Progress: Python, Java, Web Design
 
@@ -22,28 +22,6 @@ Mi piace combinare competenze tecniche e creatività per creare progetti innovat
 - Axios
 - npm
 - composer
-
-## 📚 Educazione
-### Master in Web Development – Boolean
-Certificazione Full Stack Web Developer (2023 - 2024)
-Corso intensivo di 700 ore con focus su frontend e backend, incluse tecnologie come Vue.js, Laravel e MySQL.
-
-### Laurea Triennale in Ingegneria Elettronica e Informatica – Non completata
-Approfondimento di matematica, fisica e linguaggi di programmazione per lo sviluppo software.
-
-### Diploma Liceo Scientifico
-Formazione multidisciplinare con competenze in logica e problem-solving.
-
-## 🛠 Esperienze Lavorative
-### Servizio Civile Universale (2023-2024)
-Centro Associazioni Futura
-
-Coinvolto nel progetto "Promozione dell'ambiente" per sensibilizzare e informare i cittadini sul rispetto ambientale.
-Sviluppo di competenze trasversali come organizzazione, comunicazione e problem-solving.
-
-## 🌐 Lingue
-- Italiano: Madrelingua.
-- Inglese: Livello B1.
 
 ## 🎮 Interessi
 Oltre allo sviluppo software, amo i videogiochi competitivi come Valorant. Attraverso queste esperienze, ho sviluppato competenze in team leadership e gestione della comunicazione.
