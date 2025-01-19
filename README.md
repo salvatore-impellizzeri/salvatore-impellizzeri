@@ -10,7 +10,7 @@ Mi piace combinare competenze tecniche e creatività per creare progetti innovat
 
 ## 💻 Competenze Tecniche
 ### Tecnologie principali
-- Frontend: HTML, CSS, JavaScript, React.js, Vue.js, Tailwind, Bootstrap.
+- Frontend: HTML, CSS, JavaScript, React.js, Redux, Vue.js, Tailwind, Bootstrap.
 - Backend: Laravel, PHP, MySQL.
 - In Progress: Python, Java, Web Design
 
