@@ -36,6 +36,5 @@ Sono una persona curiosa, creativa e sempre pronta ad accettare nuove sfide.
   
 ---
 
-
 Grazie per aver visitato il mio profilo! 🚀
 Se hai un progetto interessante o vuoi collaborare, non esitare a contattarmi.
