@@ -34,7 +34,7 @@ Sono una persona curiosa, creativa e sempre pronta ad accettare nuove sfide.
 - 🌍 LinkedIn: https://www.linkedin.com/in/salvatore-impellizzeri-2a6a83338/
 - 🔗 GitHub: https://github.com/salvatore-impellizzeri
   
----
+----
 
 Grazie per aver visitato il mio profilo! 🚀
 Se hai un progetto interessante o vuoi collaborare, non esitare a contattarmi.
